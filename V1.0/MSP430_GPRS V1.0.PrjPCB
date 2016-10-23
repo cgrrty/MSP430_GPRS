@@ -72,9 +72,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPFEGTYQ
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for MSP430_GPRS V1.0\Power.NET
+[Document3]
+DocumentPath=MSP430MCU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DUHKCJII
 
 [Configuration1]
 Name=Default Configuration
@@ -88,7 +101,7 @@ OutputJobsCount=0
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP LaserJet Pro M701n
+TargetPrinter=HP LaserJet Pro MFP M125-M126 PCLmS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
