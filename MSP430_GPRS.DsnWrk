@@ -6,3 +6,5 @@ ProjectPath=..\CWB2015\CWB2015.PrjPCB
 ProjectPath=V1.0\MSP430_GPRS V1.0.PrjPCB
 [Project3]
 ProjectPath=MyLibrary\MyLibrary.LibPkg
+[Project4]
+ProjectPath=Test\MSP430_GPRS_Test.PrjPCB
